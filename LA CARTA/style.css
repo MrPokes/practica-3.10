@@ -1,0 +1,19 @@
+ul.circulo{
+    list-style-type: circle;
+    
+    }
+
+ol.typea{
+list-style-type: lower-latin;
+
+}
+
+ol.numero{
+list-style-type: decimal;
+
+}
+
+ul.Roma{
+list-style-type: upper-roman;
+
+}
