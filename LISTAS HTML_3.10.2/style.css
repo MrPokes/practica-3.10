@@ -1,0 +1,24 @@
+ul.circulo{
+    list-style-type: circle;
+    
+    }
+
+ul.typeA{
+list-style-type: upper-latin;
+
+}
+
+ul.numero{
+list-style-type: decimal;
+
+}
+
+ul.Cuadrado{
+list-style-type: square;
+
+}
+
+.negrita {
+font-weight: bold;
+
+}
